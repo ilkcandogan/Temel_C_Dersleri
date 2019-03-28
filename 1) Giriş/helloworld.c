@@ -1,8 +1,8 @@
-#include<stdio.h> // standart input output kütüphanesi.
+#include<stdio.h> // standart input output kÃ¼tÃ¼phanesi.
 
 int main(){
 	
-	printf("Merhaba xxx\n"); // \n alt satıra geçmemizi sağlar. \t bir tab kadar boşluk atar.
+	printf("Merhaba Ä°lkcan\n"); // \n alt satÄ±ra geÃ§memizi saÄŸlar. \t bir tab kadar boÅŸluk atar.
 	printf("Bu gun nasilsin?");
 	
 	
